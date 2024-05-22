@@ -3,7 +3,7 @@
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
     "keywords": ["ᴋɪsᴀɴ-ʀᴀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/iVINGSTYLE/BANALL",
+    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
