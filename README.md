@@ -6,7 +6,7 @@
 ғɪʀsᴛ ғᴏʀᴋ ᴛʜɪs ʀᴇᴘᴏ ᴀɴᴅ ɢɪᴠᴇ sᴛᴀʀ ᴛᴏ ᴛʜɪs ᴘʀᴏᴊᴇᴄᴛ ᴀɴᴅ ᴇᴅɪᴛ ʀᴇᴀᴅᴍᴇ.ᴍᴅ ғɪʟᴇ ᴇɴᴛᴇʀ ʏᴏᴜʀ ғᴏʀᴋᴇᴅ ᴜʀʟ ʀᴇᴘᴏ ʟɪɴᴋ✨
 
 
-[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/purvimusic/ALPHA_BANALL)
+[![ʜᴇʀᴏᴋᴜ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TEAMPURVI/ALPHA_BANALL)
 
 
 
